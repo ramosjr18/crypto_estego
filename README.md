@@ -1,4 +1,4 @@
-# 🛡️ CRYPTO_ENTREGO
+# 🛡️ Proyecto de Criptografía Aplicada y Esteganografía
 
 Proyecto práctico de **Criptografía Aplicada y Esteganografía** desarrollado como entrega evaluable.  
 Incluye implementaciones funcionales en **Bash y Python**, demostrando cifrado simétrico, cifrado autenticado y firma digital.
