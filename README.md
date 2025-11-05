@@ -53,4 +53,4 @@ También muestra cómo aplicar la teoría criptográfica tanto desde **scripts e
 
 **Daniel Ramos**  
 Ciberseguridad & Desarrollo de Software  
-📧 contacto: *ramosdarc-18@outlook.com  
+📧 contacto: *ramosdarc-18@outlook.com*
