@@ -1,0 +1,61 @@
+# === Sistema / macOS ===
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon?
+._*
+Thumbs.db
+
+# === Python (por si usas scripts como el AES-GCM real) ===
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.egg-info/
+*.egg
+.env
+.venv/
+env/
+venv/
+.Python
+.pytest_cache/
+.ipynb_checkpoints
+
+# === Archivos generados por los ejercicios ===
+# Claves y firmas
+keys/
+*.pem
+*.key
+*.sig
+*.hex
+*.bin
+*.tag
+
+# Archivos cifrados o descifrados
+outputs/
+samples/*.enc
+samples/*.dec
+samples/*.ctr.bin
+samples/*.gcm.bin
+samples/*.tag
+samples/*.aad
+
+# Archivos de manifiesto o temporales
+*.csv
+*.log
+*.tmp
+
+# === IDEs y editores ===
+.vscode/
+.idea/
+*.swp
+*.swo
+*.bak
+
+# === PDF o documentos exportados ===
+*.pdf
+
+# === Otros ===
+# Evitar subir scripts de prueba o resultados personales
+*_test.*
+*_real.*
